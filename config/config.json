@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "spacihng",
+    "password": "henryt",
+    "database": "user_auth_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "spacihng",
+    "password": "henryt",
+    "database": "user_auth_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "spacihng",
+    "password": "henryt",
+    "database": "user_auth_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
